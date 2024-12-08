@@ -12,5 +12,5 @@ It's basically splitted into three steps:
 Build the project, then just run:
 
 ```cmd
-.\SharpGppAutologon.exe
+.\SharpGPPAutologon.exe
 ```
