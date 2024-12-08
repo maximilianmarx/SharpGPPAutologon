@@ -94,7 +94,6 @@ namespace SharpGPPAutologon
             // If credentials were found, then print them
             if (username != null && password != null)
             {
-                // Console.WriteLine($"Credentials found in {filePath}");
                 Console.WriteLine($"[+] Credentials found in {filePath}");
                 Console.WriteLine($"    Username: {username}");
                 Console.WriteLine($"    Password: {password}");
